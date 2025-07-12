@@ -1,0 +1,15 @@
+"E:\apps\IAR EW for ARM 9.10.1\arm\bin\armPROC.dll" 
+
+"E:\apps\IAR EW for ARM 9.10.1\arm\bin\armSTLINK.dll" 
+
+"E:\Sources\GitHub projects\self-routing-ADC\stand\voltageModule\EWARM\voltageModule\Exe\voltageModule.out" 
+
+--plugin="E:\apps\IAR EW for ARM 9.10.1\arm\bin\armbat.dll" 
+
+--device_macro="E:\apps\IAR EW for ARM 9.10.1\arm\config\debugger\ST\STM32F0xx.dmac" 
+
+--flash_loader="E:\apps\IAR EW for ARM 9.10.1\arm\config\flashloader\ST\FlashSTM32F03xx4.board" 
+
+
+
+

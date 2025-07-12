@@ -1,0 +1,40 @@
+E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM\voltageModule\BrowseInfo\Drivers\STM32F0xx_HAL_Driver\stm32f0xx_hal_uart.pbi: \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_uart.c \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Core/Inc\stm32f0xx_hal_conf.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_rcc.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_def.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/CMSIS/Device/ST/STM32F0xx/Include\stm32f0xx.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f030x6.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/CMSIS/Include\core_cm0.h \
+  E:\apps\IAR\ EW\ for\ ARM\ 9.10.1\arm\inc\c\stdint.h \
+  E:\apps\IAR\ EW\ for\ ARM\ 9.10.1\arm\inc\c\ycheck.h \
+  E:\apps\IAR\ EW\ for\ ARM\ 9.10.1\arm\inc\c\yvals.h \
+  E:\apps\IAR\ EW\ for\ ARM\ 9.10.1\arm\inc\c\DLib_Defaults.h \
+  E:\apps\IAR\ EW\ for\ ARM\ 9.10.1\arm\inc\c\DLib_Config_Full.h \
+  E:\apps\IAR\ EW\ for\ ARM\ 9.10.1\arm\inc\c\DLib_Product.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/CMSIS/Include/cmsis_version.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/CMSIS/Include/cmsis_compiler.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/CMSIS/Include\cmsis_iccarm.h \
+  E:\apps\IAR\ EW\ for\ ARM\ 9.10.1\arm\inc\c\aarch32\iccarm_builtin.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  E:\apps\IAR\ EW\ for\ ARM\ 9.10.1\arm\inc\c\stddef.h \
+  E:\apps\IAR\ EW\ for\ ARM\ 9.10.1\arm\inc\c\ysizet.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc_ex.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_gpio.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_gpio_ex.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_exti.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_dma.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_dma_ex.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_cortex.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_flash.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash_ex.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_i2c.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_pwr.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_tim.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim_ex.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc\stm32f0xx_hal_uart.h \
+  E:\Sources\GitHub\ projects\self-routing-ADC\stand\voltageModule\EWARM/../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart_ex.h

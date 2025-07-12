@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\..\..\..\ADC-Stand\stand\MainController\EWARM\MainController.ewp</path>
+    </project>
+    <project>
+        <path>C:\Users\ilyaa\Downloads\ADC-Stand-main\ADC-Stand-main\stand\MainController\EWARM\MainController.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\..\..\PlanetShine\firmware\sdToLeds\EWARM\sdToLeds.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\voltageModule.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
